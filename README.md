@@ -5,12 +5,11 @@
 
 ## **2 - Python API with FASTAPI**
 
-  ### First Step
+### First Step
   
 Disclaimer : FASTAPI need Python 3.6 version or beyond
-  
  ```diff
-  - pip install -r requirements.txt
+ + pip install -r requirements.txt
 ```
 
 Whenever you are ready to run the live server:
