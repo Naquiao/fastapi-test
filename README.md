@@ -9,12 +9,12 @@
   
   Disclaimer : FASTAPI need Python 3.6 version or beyond
   
-```diff
+ ```diff
   - pip install -r requirements.txt
 ```
 
 Whenever you are ready to run the live server:
-```diff
+ ```diff
  - uvicorn main:app --reload
 ```
 
