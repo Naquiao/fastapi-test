@@ -1,6 +1,6 @@
 # **FASTAPI test**
 
-## ** Python API with FASTAPI**
+## **Python API with FASTAPI**
 
 ### First Step
   
