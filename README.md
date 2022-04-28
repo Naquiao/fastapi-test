@@ -1,9 +1,6 @@
-# **Marvik Technical test**
+# **FASTAPI test**
 
-## **1 - RNN for Apple stocks prediction.**
-
-
-## **2 - Python API with FASTAPI**
+## ** Python API with FASTAPI**
 
 ### First Step
   
@@ -31,10 +28,3 @@ The results are showed here:
 ![image](https://github.com/Naquiao/marvik-technical-test/blob/main/docs/get-test-counter.png)
 
 
-## **3- Paper notes.**
-
-  The name of the paper is:
-  
- ```diff
- - A Style-Based Generator Architecture for Generative Adversarial Networks
-```
