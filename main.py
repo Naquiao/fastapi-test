@@ -29,6 +29,7 @@ async def create_time(time:Time):
 @app.get("/time/")
 async def create_counter():
     global counter
+    
     async with counter_lock:
         counter += 1
     return {"Cantidad de Hits": counter}
