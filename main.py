@@ -14,6 +14,7 @@ counter = 0
 async def create_time(time:Time):
     global counter
     async with counter_lock:
+        print("TESTEEEEE")
         counter += 1
     time_dict = time.dict()
     now = datetime.now() 
@@ -29,6 +30,7 @@ async def create_time(time:Time):
 @app.get("/time/")
 async def create_counter():
     global counter
+    breakpoint()
     
     async with counter_lock:
         counter += 1
